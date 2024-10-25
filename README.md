@@ -1,2 +1,2 @@
 # NuclearPhysics
-[Visualizing the Nucleus](https://youtu.be/ach9JLGs2Yc) [I never understood why too many neutrons cause instability - until now!](https://youtu.be/mqgmKzRneic) [Visualizing the Proton: A Documentary](https://youtu.be/e2FrALuacZ4) [The Baryogenesis Anomaly: What happened to all the Antimatter?](https://youtu.be/h9d_HimHmG0)
+[Visualizing the Nucleus](https://youtu.be/ach9JLGs2Yc) [I never understood why too many neutrons cause instability - until now!](https://youtu.be/mqgmKzRneic) [Visualizing the Proton: A Documentary](https://youtu.be/e2FrALuacZ4) [The Baryogenesis Anomaly: What happened to all the Antimatter?](https://youtu.be/h9d_HimHmG0) [Not all your Atoms are Stardust](https://youtu.be/lInXZ6I3u_I)
